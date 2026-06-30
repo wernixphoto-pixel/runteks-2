@@ -1,4 +1,4 @@
-const text = "tes huruf gang 90%";
+const text = "tes huruf gang";
 
 const speed = 0.8;
 
