@@ -1,4 +1,4 @@
-const text = "Selamat Malang ges, makang ki', oke gang";
+const text = "tes huruf gang 90%";
 
 const speed = 0.8;
 
