@@ -1,6 +1,6 @@
 const text = "Selamat Malang ges, makang ki', oke gang";
 
-const speed = 1;
+const speed = 0.8;
 
 const ticker = document.getElementById("ticker");
 
