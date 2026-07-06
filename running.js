@@ -1,6 +1,6 @@
 const text = "Selamat membaca, jangan lupa makan dan minum, jangan banyak begadang..padam air.. tutup pntu depan dan belakang";
 
-const speed = 0.8;
+const speed = 0.6;
 
 const ticker = document.getElementById("ticker");
 
